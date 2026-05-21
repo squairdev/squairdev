@@ -5,4 +5,4 @@
 I'm a Canada based web developer. I specialize in some TypeScript XML (TSX), NextJS, and TailwindCSS.
 <br>I manage some projects, such as [kittycat.boo](https://kittycat.boo/), my [dotfiles](https://github.com/squairdev/dotfiles), and a few other small projects.
 
-![squairdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+<img src="https://raw.githubusercontent.com/squairdev/squairdev/output/snake.svg" alt="Snake animation" width="100%"/>
